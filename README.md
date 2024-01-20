@@ -1,16 +1,15 @@
-### Hi there 👋
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://tpallavipatra.io)
+<h1 align="center">Hi 👋, I'm T.Pallavi Patra</h1>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tpallavipatra&label=Profile%20views&color=0e75b6&style=flat" alt="tpallavipatra" /> </p>
 
-<!--
-**tpallavipatra/tpallavipatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **tpallavipatra@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **I think i am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_saira_pallavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saira_pallavi" height="30" width="40" /></a>
+</p>
